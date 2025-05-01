@@ -49,10 +49,7 @@ Your users should be able to:
 
 ### Screenshots
 
-![]()
-
-![]()
-
+![](https://github.com/dovelm/FEM-blog-preview-card-main/blob/main/desktop.PNG)
 
 ### Links
 
