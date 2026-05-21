@@ -53,7 +53,7 @@ Your users should be able to:
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dovlym.github.io/FEM-blog-preview-card-main/)
 
 
 ## My process
